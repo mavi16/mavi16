@@ -1,6 +1,6 @@
 - 👋 Merhaba, ben @mavi16
 - 👀 Yapay Zeka, Wepsite Tasarım ve Oyun Tasarım gibi alanlarla ilgileniyorum.
-- 🖥️ Şuanda Yazılım dillerini öğrenmekteyim. (python, java, html&css, c++, c#) 
+- 🖥️ Birçok "Popüler" olan Yazılım dilini bilmekteyim. (python, java, html&css, c++, c#) 
 - 💼 Sponsorluk&İşbirliği için iletişime geçiniz.
 - 🛠️ Maviland Geliştirici Ekibi
 - 📫 İletişim: mavioyunn16@gmail.com
