@@ -2,6 +2,6 @@
 - 👀 Yapay Zeka, Wepsite Tasarım ve Oyun Tasarım gibi alanlarla ilgileniyorum.
 - 🖥️ Şuanda Yazılım dillerini öğrenmekteyim. (python, java, html&css, c++, c#) 
 - 💼 Sponsorluk&İşbirliği için iletişime geçiniz.
+- 🛠️ Maviland Geliştirici Ekibi
 - 📫 İletişim: mavioyunn16@gmail.com
 - 📫 Ekip İletişim: mavistudio16@gmail.com
-- 🛠️ Maviland Geliştirici Ekibi
