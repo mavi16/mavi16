@@ -1,4 +1,4 @@
-- 👋 Merhaba, ben @mavi16
+- 👋 Merhaba, ben Mavi!
 - 👀 Yapay Zeka, Wepsite Tasarım ve Oyun Tasarım gibi alanlarla ilgileniyorum.
 - 🖥️ Birçok "Popüler" olan Yazılım dilini bilmekteyim. (python, java, html&css, c++, c#) 
 - 💼 Sponsorluk&İşbirliği için iletişime geçiniz.
