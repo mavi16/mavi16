@@ -7,8 +7,8 @@
 - 🔔 Erişiminiz olmayan projeleri ve yazılımları kullanmanız yasaktır, telif hakkı sebebidir.
 - ⚠️ Her yazılımızda "README.txt" metin dosyası bulunmaktadır, bu dosyaları okumadan geçmeyiniz.
 - 🚫 Geliştireceğiniz yazılımda yükleme sayfası veya yazılımın içinde "https://github.com/mavi16/" linki bulunmalıdır. (ATIF)
-  
-- 💼 Sponsorluk&İşbirliği için iletişime geçiniz.
+
 - 🛠️ Maviland Geliştirici Ekibi
+- 💼 Sponsorluk&İşbirliği için iletişime geçiniz.
 - 📫 İletişim: mavioyunn16@gmail.com
 - 📫 Ekip İletişim: mavistudio16@gmail.com
