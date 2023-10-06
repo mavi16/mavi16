@@ -5,7 +5,7 @@
   
 - 📢 Herkese açık olarak paylaşılan tüm yazılımları ücretsiz ve telifsiz kullanabilir, indirebilirsiniz.
 - 🔔 Erişiminiz olmayan projeleri ve yazılımları kullanmanız yasaktır, telif hakkı sebebidir.
-- ⚠️ Her yazılımızda "README.txt" metiin dosyası bulunmaktadır, dosyanın içinde "Telif Hakkı ücretsizdir, sadece bize ATIF'da bulunmanız gerekmektedir." metni bulunmaktadır.
+- ⚠️ Her yazılımızda "README.txt" metin dosyası bulunmaktadır, bu dosyaları okumadan geçmeyiniz.
 - 🚫 Geliştireceğiniz yazılımda yükleme sayfası veya yazılımın içinde "https://github.com/mavi16/" linki bulunmalıdır. (ATIF)
   
 - 💼 Sponsorluk&İşbirliği için iletişime geçiniz.
