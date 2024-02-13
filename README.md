@@ -10,5 +10,4 @@
 
 - 🛠️ Maviland Geliştirici Ekibi
 - 💼 Sponsorluk&İşbirliği için iletişime geçiniz.
-- 📫 İletişim: mavisamuray16@gmail.com
-- 📫 Ekip İletişim: mavistudio16@gmail.com
+- 📫 İletişim: mavistudio16@gmail.com
