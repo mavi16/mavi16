@@ -1,6 +1,6 @@
 - 👋 Merhaba, ben BARAN!
 - 👑 Yazılım Geliştiricisi
-- 👀 Yapay Zeka, Wepsite Tasarım ve Oyun Tasarım gibi alanlarla ilgileniyorum.
+- 👀 Yapay Zeka, Website Tasarım ve Oyun Tasarım gibi alanlarla ilgileniyorum.
 - 🖥️ Birçok "Popüler" olan Yazılım dilini bilmekteyim. (python, java, html&css, c++, c#)
   
 - 📢 Herkese açık olarak paylaşılan tüm yazılımları ücretsiz ve telifsiz kullanabilir, indirebilirsiniz.
